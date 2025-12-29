@@ -54,7 +54,3 @@ This project predicts **Tesla (TSLA) next-day closing prices** using historical 
 ## 👩‍💻 Author
 **Mitali Sharma**  
 Data Science & Machine Learning Intern
-
-
-
-## 📁 Repository Structure
